@@ -1,4 +1,4 @@
-FROM registry.redhat.io/ubi8/ubi-minimal
+FROM registry.access.redhat.com/ubi8-minimal
 
 RUN microdnf --nodocs -y install httpd \
   && microdnf clean all
