@@ -6,3 +6,4 @@ In this repository, I am going to collect some resources that could be useful to
 - Deploy an application from a git repository (https://github.com/kubealex/go-examples.git - sample-webserver)
 - Deploy an application from an helm chart
 - Expose a container using services and routes
+- Use a debug pod to troubleshoot a node
