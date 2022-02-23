@@ -9,3 +9,4 @@ In this repository, I am going to collect some resources that could be useful to
 - Use a debug pod to troubleshoot a node
 - Manage Roles
 - Add SCC to users
+- Using persistent storage in apps
